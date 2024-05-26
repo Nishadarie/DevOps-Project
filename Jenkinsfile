@@ -1,7 +1,7 @@
 pipeline {
   agent any
   environment {
-    REPO_URL = 'https://github.com/your-repo.git'
+    REPO_URL = 'https://github.com/https://github.com/Nishadarie/DevOps-Project'
   }
   stages {
     stage('Clone Repository') {
